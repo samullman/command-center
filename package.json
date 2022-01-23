@@ -24,7 +24,7 @@
 		"postcss": "^8.4.5",
 		"postcss-load-config": "^3.1.1",
 		"prettier": "^2.4.1",
-		"prettier-plugin-svelte": "^2.4.0",
+		"prettier-plugin-svelte": "^2.6.0",
 		"svelte": "^3.44.0",
 		"svelte-check": "^2.2.6",
 		"svelte-preprocess": "^4.10.1",
@@ -37,6 +37,9 @@
 		"@fontsource/fira-mono": "^4.5.0",
 		"@lukeed/uuid": "^2.0.0",
 		"@tailwindcss/forms": "^0.4.0",
+		"bip32": "^3.0.1",
+		"bip39": "^3.0.4",
+		"bitcoinjs-lib": "^6.0.1",
 		"cookie": "^0.4.1",
 		"svelte-add": "^2022.1.1-9.0"
 	}
